@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+{{ site.email }}
 
 {% for post in site.data.contentful.davyjones.post %}
 # {{ post.title}}

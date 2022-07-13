@@ -1,5 +1,6 @@
 ---
 ---
-@use "base/grid";
-@use "base/color";
-@use "base/type";
+
+{% include_relative base/_grid.scss %}
+{% include_relative base/_color.scss %}
+

@@ -1,0 +1,501 @@
+---
+post:
+- sys:
+    id: 5Jln0z0sFDS4o3KMSVqVAY
+    created_at: !ruby/object:DateTime 2022-07-10 21:31:53.133000000 Z
+    updated_at: !ruby/object:DateTime 2022-07-10 21:41:36.225000000 Z
+    content_type_id: post
+    revision: 2
+  title: Another day, another post for testing
+  slug: another-day-another-post-for-testing
+  body: "Pit bull greyhound Morkie great dance\n\n- Morkie \n- chihuahua \n- maltese
+    \n\ncatch leave it. Catch dog toy beagle boxer bring it Morkie peanut butter.
+    Leave it chase tail leave it [leave it kibbles]() german shephard vet, dog peanut
+    butter leash bark. Bark come stand milk bone dog house chihuahua stand squeak
+    toy. Bite tug bell beagle, speak come sit pretty lap dog kibbles k9 leash. Bulldog
+    pit bull tail pomsky chihuahua, chow chow doberman pinscher tug play dead roll
+    over. Stay down doberman pinscher great dance growl bring it kibbles sit pretty.
+    Sit take it vet kibbles stand come Morkie. Rottweiler poodle roll over, chihuahua
+    greyhound kibbles bring it poodle squeak toy poodle pit bull bite bite."
+  date: !ruby/object:DateTime 2022-07-02 00:00:00.000000000 Z
+  image:
+    sys:
+      id: 22skOKVP1CdDTABtHiTBNS
+      created_at: !ruby/object:DateTime 2022-07-10 21:31:46.799000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:31:46.799000000 Z
+    title: Another test image from unsplash
+    description: this cute little pug is a test image
+    url: "//images.ctfassets.net/s9z475pltny4/22skOKVP1CdDTABtHiTBNS/b296bc8af4ed91550b27239e1f80ce5a/photo-1583512603805-3cc6b41f3edb"
+  art:
+  - sys:
+      id: 1B1dQUHVCSZbOpCHI0jtxt
+      created_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+      content_type_id: art
+      revision: 1
+    title: Art for testing
+    slug: art-for-testing
+    short: 'this art piece from unsplash is a place holder used for testing '
+    body: Jump rottweiler maltese bite pit bull puppies shake, german shephard lab
+      roll over bark husky dog bowl. Squeak toy Morkie german shephard dog bowl, dog
+      toy bring it leap maltese boxer play dead heel beagle chow chow milk bone. Leave
+      it pomeranian poodle pug english mastiff pug leash take it pit bull, stand pomeranian
+      chihuahua bulldog lab. Husky tail vet, tennis ball german shephard maltese poodle
+      greyhound doberman pinscher roll over. Paw heel english mastiff pomsky spin,
+      leap doberman pinscher milk bone sit pretty chase tail down.
+    image:
+      sys:
+        id: 6PcCjPVELH7ro0WmUFEOFr
+        created_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+      title: Pug in a Sweater -- art for testing
+      description: cute little pug from unsplash -- used for testing
+      url: "//images.ctfassets.net/s9z475pltny4/6PcCjPVELH7ro0WmUFEOFr/e8a708780da29e67711081badb942358/photo-1517849845537-4d257902454a"
+    price: 100.0
+    onsale: true
+  product:
+  - sys:
+      id: 2NQOT9PHcM4EJFdYBqRw4v
+      created_at: !ruby/object:DateTime 2022-07-10 21:41:10.872000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:41:10.872000000 Z
+      content_type_id: product
+      revision: 1
+    title: Another Dog on a shirt
+    slug: another-dog-on-a-shirt
+    short: another unsplash test
+    body: "Poodle shake shake sit pretty tail, bite yorkshire terrier stand bring
+      it come. Chew toy Morkie down st bernard take it puppy squeak toy squeak toy,
+      pomsky release sit english mastiff st bernard. \n\nDog house puppy fetch great
+      dance shih tzu dachshund squirrel. Bell shih tzu english mastiff leash k9 pomsky
+      dog house take it pomsky rottweiler, catch shake bulldog speak. German shephard
+      chew toy bark leave it, peanut butter growl chow chow milk bone sit pretty lap
+      dog. \n\nRelease leash growl growl chow chow dachshund dog milk bone. Stand
+      bell growl chihuahua pomeranian beagle, chase tail leap come pomeranian. Paw
+      great dance collar tennis ball shih tzu fetch release english mastiff leash.
+      Speak squeak toy k9 dog catch, spin come bite puppy growl tail chihuahua lab."
+    image:
+    - sys:
+        id: vHWAaH8aueoAeR6vjL4aV
+        created_at: !ruby/object:DateTime 2022-07-10 21:40:18.439000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:40:18.439000000 Z
+      title: Another unsplash test -- T with dog bones
+      description: Testing another image so we have enough to create loops
+      url: "//images.ctfassets.net/s9z475pltny4/vHWAaH8aueoAeR6vjL4aV/08ef2619fd0bd1197a2716a1003789fe/photo-1503342394128-c104d54dba01"
+    sizes:
+    - small
+    - medium
+    - large
+    colors:
+    - black
+    - white
+    price: '40'
+    id: 222
+    type:
+    - sys:
+        id: 4KqhWbD0nkrcwCzXgsNJx5
+        created_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+        content_type_id: type
+        revision: 1
+      label: T-shirts
+      slug: t-shirts
+      body: place holder for talking about t-shirts
+    category:
+    - sys:
+        id: znaWb9k0fj1cc8IWcFvgu
+        created_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+        content_type_id: category
+        revision: 1
+      label: unsplash test
+      slug: unsplash-test
+      body: test category using unsplash art
+    related:
+    - sys:
+        id: 3Y9sLY6Sgu4py59TG1B5Pg
+        created_at: !ruby/object:DateTime 2022-07-10 21:37:31.967000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:37:31.967000000 Z
+        content_type_id: product
+        revision: 1
+      title: Dog on a shirt
+      slug: dog-on-a-shirt
+      short: test product using unsplash art
+      body: 'this cute little dog on a shirt is from unsplash.
+
+        '
+      image:
+      - sys:
+          id: 3pbNDkrOCEvKULjUBCyaEv
+          created_at: !ruby/object:DateTime 2022-07-10 21:36:11.330000000 Z
+          updated_at: !ruby/object:DateTime 2022-07-10 21:36:11.330000000 Z
+        title: Dog on a shirt - unsplash
+        description: test product
+        url: "//images.ctfassets.net/s9z475pltny4/3pbNDkrOCEvKULjUBCyaEv/fef8828af737ce7bb0248d4ca5fd6feb/photo-1582418701181-fb023bad8b4d"
+      sizes:
+      - small
+      - medium
+      - large
+      colors:
+      - black
+      - white
+      - tan
+      price: '40'
+      id: 261
+      art:
+        sys:
+          id: 1B1dQUHVCSZbOpCHI0jtxt
+          created_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+          updated_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+          content_type_id: art
+          revision: 1
+        title: Art for testing
+        slug: art-for-testing
+        short: 'this art piece from unsplash is a place holder used for testing '
+        body: Jump rottweiler maltese bite pit bull puppies shake, german shephard
+          lab roll over bark husky dog bowl. Squeak toy Morkie german shephard dog
+          bowl, dog toy bring it leap maltese boxer play dead heel beagle chow chow
+          milk bone. Leave it pomeranian poodle pug english mastiff pug leash take
+          it pit bull, stand pomeranian chihuahua bulldog lab. Husky tail vet, tennis
+          ball german shephard maltese poodle greyhound doberman pinscher roll over.
+          Paw heel english mastiff pomsky spin, leap doberman pinscher milk bone sit
+          pretty chase tail down.
+        image:
+          sys:
+            id: 6PcCjPVELH7ro0WmUFEOFr
+            created_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+            updated_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+          title: Pug in a Sweater -- art for testing
+          description: cute little pug from unsplash -- used for testing
+          url: "//images.ctfassets.net/s9z475pltny4/6PcCjPVELH7ro0WmUFEOFr/e8a708780da29e67711081badb942358/photo-1517849845537-4d257902454a"
+        price: 100.0
+        onsale: true
+      type:
+      - sys:
+          id: 4KqhWbD0nkrcwCzXgsNJx5
+          created_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+          updated_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+          content_type_id: type
+          revision: 1
+        label: T-shirts
+        slug: t-shirts
+        body: place holder for talking about t-shirts
+      category:
+      - sys:
+          id: znaWb9k0fj1cc8IWcFvgu
+          created_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+          updated_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+          content_type_id: category
+          revision: 1
+        label: unsplash test
+        slug: unsplash-test
+        body: test category using unsplash art
+- sys:
+    id: 3oPRADTH2PRwSqaVTTtbjD
+    created_at: !ruby/object:DateTime 2022-07-10 21:26:18.197000000 Z
+    updated_at: !ruby/object:DateTime 2022-07-10 21:28:06.618000000 Z
+    content_type_id: post
+    revision: 2
+  title: Hello Dogs!
+  slug: hello-dogs
+  body: "A blog post for testing\n\nPoodle shake shake sit pretty tail, [bite yorkshire
+    terrier]() stand bring it come. Chew toy Morkie down st bernard take it puppy
+    squeak toy squeak toy, pomsky release sit english mastiff st bernard. \n\nDog
+    house puppy fetch great dance shih tzu dachshund squirrel. Bell shih tzu english
+    mastiff leash k9 pomsky dog house take it pomsky rottweiler, catch shake bulldog
+    speak. "
+  date: !ruby/object:DateTime 2022-07-01 00:00:00.000000000 Z
+  image:
+    sys:
+      id: 6TSgNnprI2moI0Eklt9fz9
+      created_at: !ruby/object:DateTime 2022-07-10 21:28:01.037000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:28:01.037000000 Z
+    title: Cute little puppy for testing
+    description: another unsplash for testing the site
+    url: "//images.ctfassets.net/s9z475pltny4/6TSgNnprI2moI0Eklt9fz9/463969f1c4068403db2f61929bc228f0/photo-1537151625747-768eb6cf92b2"
+  art:
+  - sys:
+      id: 1B1dQUHVCSZbOpCHI0jtxt
+      created_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+      content_type_id: art
+      revision: 1
+    title: Art for testing
+    slug: art-for-testing
+    short: 'this art piece from unsplash is a place holder used for testing '
+    body: Jump rottweiler maltese bite pit bull puppies shake, german shephard lab
+      roll over bark husky dog bowl. Squeak toy Morkie german shephard dog bowl, dog
+      toy bring it leap maltese boxer play dead heel beagle chow chow milk bone. Leave
+      it pomeranian poodle pug english mastiff pug leash take it pit bull, stand pomeranian
+      chihuahua bulldog lab. Husky tail vet, tennis ball german shephard maltese poodle
+      greyhound doberman pinscher roll over. Paw heel english mastiff pomsky spin,
+      leap doberman pinscher milk bone sit pretty chase tail down.
+    image:
+      sys:
+        id: 6PcCjPVELH7ro0WmUFEOFr
+        created_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+      title: Pug in a Sweater -- art for testing
+      description: cute little pug from unsplash -- used for testing
+      url: "//images.ctfassets.net/s9z475pltny4/6PcCjPVELH7ro0WmUFEOFr/e8a708780da29e67711081badb942358/photo-1517849845537-4d257902454a"
+    price: 100.0
+    onsale: true
+product:
+- sys:
+    id: 2NQOT9PHcM4EJFdYBqRw4v
+    created_at: !ruby/object:DateTime 2022-07-10 21:41:10.872000000 Z
+    updated_at: !ruby/object:DateTime 2022-07-10 21:41:10.872000000 Z
+    content_type_id: product
+    revision: 1
+  title: Another Dog on a shirt
+  slug: another-dog-on-a-shirt
+  short: another unsplash test
+  body: "Poodle shake shake sit pretty tail, bite yorkshire terrier stand bring it
+    come. Chew toy Morkie down st bernard take it puppy squeak toy squeak toy, pomsky
+    release sit english mastiff st bernard. \n\nDog house puppy fetch great dance
+    shih tzu dachshund squirrel. Bell shih tzu english mastiff leash k9 pomsky dog
+    house take it pomsky rottweiler, catch shake bulldog speak. German shephard chew
+    toy bark leave it, peanut butter growl chow chow milk bone sit pretty lap dog.
+    \n\nRelease leash growl growl chow chow dachshund dog milk bone. Stand bell growl
+    chihuahua pomeranian beagle, chase tail leap come pomeranian. Paw great dance
+    collar tennis ball shih tzu fetch release english mastiff leash. Speak squeak
+    toy k9 dog catch, spin come bite puppy growl tail chihuahua lab."
+  image:
+  - sys:
+      id: vHWAaH8aueoAeR6vjL4aV
+      created_at: !ruby/object:DateTime 2022-07-10 21:40:18.439000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:40:18.439000000 Z
+    title: Another unsplash test -- T with dog bones
+    description: Testing another image so we have enough to create loops
+    url: "//images.ctfassets.net/s9z475pltny4/vHWAaH8aueoAeR6vjL4aV/08ef2619fd0bd1197a2716a1003789fe/photo-1503342394128-c104d54dba01"
+  sizes:
+  - small
+  - medium
+  - large
+  colors:
+  - black
+  - white
+  price: '40'
+  id: 222
+  type:
+  - sys:
+      id: 4KqhWbD0nkrcwCzXgsNJx5
+      created_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+      content_type_id: type
+      revision: 1
+    label: T-shirts
+    slug: t-shirts
+    body: place holder for talking about t-shirts
+  category:
+  - sys:
+      id: znaWb9k0fj1cc8IWcFvgu
+      created_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+      content_type_id: category
+      revision: 1
+    label: unsplash test
+    slug: unsplash-test
+    body: test category using unsplash art
+  related:
+  - sys:
+      id: 3Y9sLY6Sgu4py59TG1B5Pg
+      created_at: !ruby/object:DateTime 2022-07-10 21:37:31.967000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:37:31.967000000 Z
+      content_type_id: product
+      revision: 1
+    title: Dog on a shirt
+    slug: dog-on-a-shirt
+    short: test product using unsplash art
+    body: 'this cute little dog on a shirt is from unsplash.
+
+      '
+    image:
+    - sys:
+        id: 3pbNDkrOCEvKULjUBCyaEv
+        created_at: !ruby/object:DateTime 2022-07-10 21:36:11.330000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:36:11.330000000 Z
+      title: Dog on a shirt - unsplash
+      description: test product
+      url: "//images.ctfassets.net/s9z475pltny4/3pbNDkrOCEvKULjUBCyaEv/fef8828af737ce7bb0248d4ca5fd6feb/photo-1582418701181-fb023bad8b4d"
+    sizes:
+    - small
+    - medium
+    - large
+    colors:
+    - black
+    - white
+    - tan
+    price: '40'
+    id: 261
+    art:
+      sys:
+        id: 1B1dQUHVCSZbOpCHI0jtxt
+        created_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+        content_type_id: art
+        revision: 1
+      title: Art for testing
+      slug: art-for-testing
+      short: 'this art piece from unsplash is a place holder used for testing '
+      body: Jump rottweiler maltese bite pit bull puppies shake, german shephard lab
+        roll over bark husky dog bowl. Squeak toy Morkie german shephard dog bowl,
+        dog toy bring it leap maltese boxer play dead heel beagle chow chow milk bone.
+        Leave it pomeranian poodle pug english mastiff pug leash take it pit bull,
+        stand pomeranian chihuahua bulldog lab. Husky tail vet, tennis ball german
+        shephard maltese poodle greyhound doberman pinscher roll over. Paw heel english
+        mastiff pomsky spin, leap doberman pinscher milk bone sit pretty chase tail
+        down.
+      image:
+        sys:
+          id: 6PcCjPVELH7ro0WmUFEOFr
+          created_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+          updated_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+        title: Pug in a Sweater -- art for testing
+        description: cute little pug from unsplash -- used for testing
+        url: "//images.ctfassets.net/s9z475pltny4/6PcCjPVELH7ro0WmUFEOFr/e8a708780da29e67711081badb942358/photo-1517849845537-4d257902454a"
+      price: 100.0
+      onsale: true
+    type:
+    - sys:
+        id: 4KqhWbD0nkrcwCzXgsNJx5
+        created_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+        content_type_id: type
+        revision: 1
+      label: T-shirts
+      slug: t-shirts
+      body: place holder for talking about t-shirts
+    category:
+    - sys:
+        id: znaWb9k0fj1cc8IWcFvgu
+        created_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+        content_type_id: category
+        revision: 1
+      label: unsplash test
+      slug: unsplash-test
+      body: test category using unsplash art
+- sys:
+    id: 3Y9sLY6Sgu4py59TG1B5Pg
+    created_at: !ruby/object:DateTime 2022-07-10 21:37:31.967000000 Z
+    updated_at: !ruby/object:DateTime 2022-07-10 21:37:31.967000000 Z
+    content_type_id: product
+    revision: 1
+  title: Dog on a shirt
+  slug: dog-on-a-shirt
+  short: test product using unsplash art
+  body: 'this cute little dog on a shirt is from unsplash.
+
+    '
+  image:
+  - sys:
+      id: 3pbNDkrOCEvKULjUBCyaEv
+      created_at: !ruby/object:DateTime 2022-07-10 21:36:11.330000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:36:11.330000000 Z
+    title: Dog on a shirt - unsplash
+    description: test product
+    url: "//images.ctfassets.net/s9z475pltny4/3pbNDkrOCEvKULjUBCyaEv/fef8828af737ce7bb0248d4ca5fd6feb/photo-1582418701181-fb023bad8b4d"
+  sizes:
+  - small
+  - medium
+  - large
+  colors:
+  - black
+  - white
+  - tan
+  price: '40'
+  id: 261
+  art:
+    sys:
+      id: 1B1dQUHVCSZbOpCHI0jtxt
+      created_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+      content_type_id: art
+      revision: 1
+    title: Art for testing
+    slug: art-for-testing
+    short: 'this art piece from unsplash is a place holder used for testing '
+    body: Jump rottweiler maltese bite pit bull puppies shake, german shephard lab
+      roll over bark husky dog bowl. Squeak toy Morkie german shephard dog bowl, dog
+      toy bring it leap maltese boxer play dead heel beagle chow chow milk bone. Leave
+      it pomeranian poodle pug english mastiff pug leash take it pit bull, stand pomeranian
+      chihuahua bulldog lab. Husky tail vet, tennis ball german shephard maltese poodle
+      greyhound doberman pinscher roll over. Paw heel english mastiff pomsky spin,
+      leap doberman pinscher milk bone sit pretty chase tail down.
+    image:
+      sys:
+        id: 6PcCjPVELH7ro0WmUFEOFr
+        created_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+        updated_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+      title: Pug in a Sweater -- art for testing
+      description: cute little pug from unsplash -- used for testing
+      url: "//images.ctfassets.net/s9z475pltny4/6PcCjPVELH7ro0WmUFEOFr/e8a708780da29e67711081badb942358/photo-1517849845537-4d257902454a"
+    price: 100.0
+    onsale: true
+  type:
+  - sys:
+      id: 4KqhWbD0nkrcwCzXgsNJx5
+      created_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+      content_type_id: type
+      revision: 1
+    label: T-shirts
+    slug: t-shirts
+    body: place holder for talking about t-shirts
+  category:
+  - sys:
+      id: znaWb9k0fj1cc8IWcFvgu
+      created_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+      content_type_id: category
+      revision: 1
+    label: unsplash test
+    slug: unsplash-test
+    body: test category using unsplash art
+category:
+- sys:
+    id: znaWb9k0fj1cc8IWcFvgu
+    created_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+    updated_at: !ruby/object:DateTime 2022-07-10 21:33:40.621000000 Z
+    content_type_id: category
+    revision: 1
+  label: unsplash test
+  slug: unsplash-test
+  body: test category using unsplash art
+type:
+- sys:
+    id: 4KqhWbD0nkrcwCzXgsNJx5
+    created_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+    updated_at: !ruby/object:DateTime 2022-07-10 21:33:02.942000000 Z
+    content_type_id: type
+    revision: 1
+  label: T-shirts
+  slug: t-shirts
+  body: place holder for talking about t-shirts
+art:
+- sys:
+    id: 1B1dQUHVCSZbOpCHI0jtxt
+    created_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+    updated_at: !ruby/object:DateTime 2022-07-10 21:24:06.367000000 Z
+    content_type_id: art
+    revision: 1
+  title: Art for testing
+  slug: art-for-testing
+  short: 'this art piece from unsplash is a place holder used for testing '
+  body: Jump rottweiler maltese bite pit bull puppies shake, german shephard lab roll
+    over bark husky dog bowl. Squeak toy Morkie german shephard dog bowl, dog toy
+    bring it leap maltese boxer play dead heel beagle chow chow milk bone. Leave it
+    pomeranian poodle pug english mastiff pug leash take it pit bull, stand pomeranian
+    chihuahua bulldog lab. Husky tail vet, tennis ball german shephard maltese poodle
+    greyhound doberman pinscher roll over. Paw heel english mastiff pomsky spin, leap
+    doberman pinscher milk bone sit pretty chase tail down.
+  image:
+    sys:
+      id: 6PcCjPVELH7ro0WmUFEOFr
+      created_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+      updated_at: !ruby/object:DateTime 2022-07-10 21:23:45.963000000 Z
+    title: Pug in a Sweater -- art for testing
+    description: cute little pug from unsplash -- used for testing
+    url: "//images.ctfassets.net/s9z475pltny4/6PcCjPVELH7ro0WmUFEOFr/e8a708780da29e67711081badb942358/photo-1517849845537-4d257902454a"
+  price: 100.0
+  onsale: true
